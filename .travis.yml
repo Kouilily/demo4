@@ -1,4 +1,7 @@
 language : c
+c :
+ - "stable"
+ 
 install: make get-deps
 
 before_install:
